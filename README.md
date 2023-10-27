@@ -1,5 +1,3 @@
-write a readme fole for this repo, it's for Embedded systems tasks at 'CAT RELOADED'
-
 # CAT RELOADED 🐈, Embedded Systems
 ## Tasks
 
